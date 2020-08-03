@@ -16,6 +16,7 @@ import { ChartjsRadarComponent } from './chartjs/chartjs-radar.component';
 import { D3BarComponent } from './d3/d3-bar.component';
 import { D3LineComponent } from './d3/d3-line.component';
 import { D3LineCustomComponent } from './d3/d3-line-custom.component';
+import { D3LineUsersComponent } from './d3/d3-line-users.component';
 import { D3PieComponent } from './d3/d3-pie.component';
 import { D3AreaStackComponent } from './d3/d3-area-stack.component';
 import { D3PolarComponent } from './d3/d3-polar.component';
@@ -38,6 +39,7 @@ const components = [
   D3BarComponent,
   D3LineComponent,
   D3LineCustomComponent,
+  D3LineUsersComponent,
   D3PieComponent,
   D3AreaStackComponent,
   D3PolarComponent,
