@@ -123,7 +123,7 @@ export class D3LineUsersComponent implements OnDestroy {
         {name: 'Sat, Aug 1st 2020', value: 3},
         {name: 'Sun, Aug 2nd 2020', value: 3},
       ],
-    },    
+    },
   ];
   showLegend = true;
   autoScale = true;
