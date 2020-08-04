@@ -20,6 +20,7 @@ import { D3LineUsersComponent } from './d3/d3-line-users.component';
 import { D3PieComponent } from './d3/d3-pie.component';
 import { D3PieCustomComponent } from './d3/d3-pie-custom.component';
 import { D3AreaStackComponent } from './d3/d3-area-stack.component';
+import { D3AreaStackCustomComponent } from './d3/d3-area-stack-custom.component';
 import { D3PolarComponent } from './d3/d3-polar.component';
 import { D3AdvancedPieComponent } from './d3/d3-advanced-pie.component';
 import { EchartsLineComponent } from './echarts/echarts-line.component';
@@ -44,6 +45,7 @@ const components = [
   D3PieComponent,
   D3PieCustomComponent,
   D3AreaStackComponent,
+  D3AreaStackCustomComponent,
   D3PolarComponent,
   D3AdvancedPieComponent,
   EchartsLineComponent,
