@@ -14,6 +14,7 @@ import { ChartjsMultipleXaxisComponent } from './chartjs/chartjs-multiple-xaxis.
 import { ChartjsBarHorizontalComponent } from './chartjs/chartjs-bar-horizontal.component';
 import { ChartjsRadarComponent } from './chartjs/chartjs-radar.component';
 import { D3BarComponent } from './d3/d3-bar.component';
+import { D3BarCustomComponent } from './d3/d3-bar-custom.component';
 import { D3LineComponent } from './d3/d3-line.component';
 import { D3LineCustomComponent } from './d3/d3-line-custom.component';
 import { D3LineUsersComponent } from './d3/d3-line-users.component';
@@ -39,6 +40,7 @@ const components = [
   ChartjsBarHorizontalComponent,
   ChartjsRadarComponent,
   D3BarComponent,
+  D3BarCustomComponent,
   D3LineComponent,
   D3LineCustomComponent,
   D3LineUsersComponent,

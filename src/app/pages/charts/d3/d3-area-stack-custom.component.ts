@@ -130,10 +130,10 @@ export class D3AreaStackCustomComponent implements OnDestroy {
   autoScale = true;
   showXAxis = true;
   showYAxis = true;
-  showXAxisLabel = true;
+  showXAxisLabel = false;
   showYAxisLabel = true;
-  xAxisLabel = 'Country';
-  yAxisLabel = 'Population';
+  xAxisLabel = 'Date';
+  yAxisLabel = 'Count';
   colorScheme: any;
   themeSubscription: any;
 
